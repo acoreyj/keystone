@@ -1,5 +1,20 @@
 # keystone_demo_blog
 
+## 5.2.1
+
+### Patch Changes
+
+- [`535ea6a9`](https://github.com/keystonejs/keystone/commit/535ea6a93d74eced46a8e5711a2e6aafa0dca95b) [#2390](https://github.com/keystonejs/keystone/pull/2390) Thanks [@Vultraz](https://github.com/Vultraz)! - Update `cross-env` dependency to 7.0.0.
+
+- Updated dependencies [[`dcdd8ed9`](https://github.com/keystonejs/keystone/commit/dcdd8ed9142cf3328a7af80bc167ef93c7669b09), [`4313b645`](https://github.com/keystonejs/keystone/commit/4313b64554b1cc64e64245706b00c0510a5dd0b4), [`c059b63c`](https://github.com/keystonejs/keystone/commit/c059b63c6ebdbb60ac4095d1efd791d598b2756c)]:
+  - @keystonejs/app-admin-ui@5.8.1
+  - @arch-ui/layout@0.2.9
+  - @arch-ui/typography@0.0.13
+  - @keystonejs/fields-markdown@5.1.1
+  - @keystonejs/fields-wysiwyg-tinymce@5.1.1
+  - @keystonejs/fields@6.3.1
+  - @keystonejs/oembed-adapters@5.1.1
+
 ## 5.2.0
 
 ### Minor Changes

@@ -1,5 +1,13 @@
 # @keystonejs/build-field-types
 
+## 5.2.1
+
+### Patch Changes
+
+- [`6929a7e3`](https://github.com/keystonejs/keystone/commit/6929a7e3339f36e712bcbafc71ddf7a133730b29) [#2383](https://github.com/keystonejs/keystone/pull/2383) Thanks [@timleslie](https://github.com/timleslie)! - Upgraded to latest `jest` packages.
+
+* [`dcdd8ed9`](https://github.com/keystonejs/keystone/commit/dcdd8ed9142cf3328a7af80bc167ef93c7669b09) [#2381](https://github.com/keystonejs/keystone/pull/2381) Thanks [@timleslie](https://github.com/timleslie)! - Updated `@babel/*` dependency packages to latest versions.
+
 ## 5.2.0
 
 ### Minor Changes

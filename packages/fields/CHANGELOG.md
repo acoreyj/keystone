@@ -1,5 +1,37 @@
 # @keystonejs/fields
 
+## 6.3.1
+
+### Patch Changes
+
+- [`dcdd8ed9`](https://github.com/keystonejs/keystone/commit/dcdd8ed9142cf3328a7af80bc167ef93c7669b09) [#2381](https://github.com/keystonejs/keystone/pull/2381) Thanks [@timleslie](https://github.com/timleslie)! - Updated `@babel/*` dependency packages to latest versions.
+
+* [`c059b63c`](https://github.com/keystonejs/keystone/commit/c059b63c6ebdbb60ac4095d1efd791d598b2756c) [#2397](https://github.com/keystonejs/keystone/pull/2397) Thanks [@Vultraz](https://github.com/Vultraz)! - Converted most field React components to functional ones.
+
+* Updated dependencies [[`6929a7e3`](https://github.com/keystonejs/keystone/commit/6929a7e3339f36e712bcbafc71ddf7a133730b29), [`dcdd8ed9`](https://github.com/keystonejs/keystone/commit/dcdd8ed9142cf3328a7af80bc167ef93c7669b09), [`4313b645`](https://github.com/keystonejs/keystone/commit/4313b64554b1cc64e64245706b00c0510a5dd0b4)]:
+  - @keystonejs/build-field-types@5.2.1
+  - @keystonejs/app-admin-ui@5.8.1
+  - @arch-ui/button@0.0.14
+  - @arch-ui/controls@0.1.4
+  - @arch-ui/day-picker@0.0.19
+  - @arch-ui/drawer@0.0.17
+  - @arch-ui/fields@2.1.2
+  - @arch-ui/filters@0.0.16
+  - @arch-ui/icons@0.0.9
+  - @arch-ui/input@0.1.5
+  - @arch-ui/layout@0.2.9
+  - @arch-ui/loading@0.0.13
+  - @arch-ui/lozenge@0.0.12
+  - @arch-ui/options@0.0.14
+  - @arch-ui/popout@0.0.15
+  - @arch-ui/select@0.1.4
+  - @arch-ui/theme@0.0.8
+  - @arch-ui/tooltip@0.1.7
+  - @arch-ui/typography@0.0.13
+  - @keystonejs/field-content@5.4.1
+  - @keystonejs/utils@5.2.1
+  - @arch-ui/alert@0.0.13
+
 ## 6.3.0
 
 ### Minor Changes
